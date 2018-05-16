@@ -1,5 +1,6 @@
 this file3 for local feature branch.
 <<<<<<< HEAD
+<<<<<<< HEAD
 Its is file 3 for personal info.
 Kd Pandey
 Arnav Pandey
@@ -7,6 +8,11 @@ Arpita Pandey
 
 
 Can I remove all data with in file.
+=======
+
+I want chage my job ASAP.
+
+>>>>>>> stash
 =======
 
 I want chage my job ASAP.
